@@ -1,0 +1,18 @@
+[
+  {
+    "chunk": "platform",
+    "chunkName": "系统平台"
+  },
+  {
+    "chunk": "manage",
+    "chunkName": "系统管理"
+  },
+  {
+    "chunk": "screen",
+    "chunkName": "可视化大屏"
+  },
+  {
+    "chunk": "auth",
+    "chunkName": "系统权限"
+  }
+]

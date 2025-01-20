@@ -1,0 +1,28 @@
+{
+  "name": "gg",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "ant-design-vue": "^4.2.5",
+    "axios": "^1.7.7",
+    "dayjs": "^1.11.13",
+    "pinia": "^2.2.6",
+    "pinia-plugin-persistedstate": "^4.1.2",
+    "vue": "^3.4.37",
+    "vue-router": "^4.4.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.2",
+    "sass": "^1.79.3",
+    "unplugin-auto-import": "^0.18.3",
+    "unplugin-vue-components": "^0.27.4",
+    "vite": "^6.0.7",
+    "vite-plugin-mock": "^3.0.2"
+  }
+}
